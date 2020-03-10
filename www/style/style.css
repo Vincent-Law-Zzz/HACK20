@@ -62,6 +62,27 @@
         border:none;
     }
 
+    #copypassword{
+        margin-top: 25px;
+        position: relative;
+        width: 300px;
+        height: 50px;
+        border-radius: 50px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 28px;
+        padding-left: 25px;
+
+        color: #44434F;
+        background: #737382;
+        outline:none;
+        border:none;
+
+    }
+
     #btn-singin{
         margin-top: 25px;
         position: relative;
@@ -121,7 +142,7 @@
 
     #Password_hint {
         position:absolute;
-        top: calc( 50% - 50px/2 );
+        top: calc( 50% - 55px/2 );
         left: calc( 50% - 275px/2 );
         font-family: Roboto;
         font-style: normal;
